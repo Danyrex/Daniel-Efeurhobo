@@ -8,7 +8,7 @@ I specialize in transforming raw data into **business-ready insights** using Pyt
 
 ## 🔹 Featured Projects  
 
-### 📊 Fraud Detection Analytics  
+### 📊 Fraud Detection Analysis  
 - Built an end-to-end pipeline analyzing **1.2M+ transactions**  
 - **Python:** Cleaning & geospatial feature engineering  
 - **SQL Server:** Tables, computed fields, and reporting views  
