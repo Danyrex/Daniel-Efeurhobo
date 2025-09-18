@@ -21,9 +21,9 @@ I specialize in transforming raw data into **business-ready insights** using Pyt
 ---
 
 ### 📈 Data Professional Job Survey  
-- Analyzed survey data from **800+ data professionals worldwide**  
-- **SQL:** Cleaned and structured responses for analysis  
-- **Python (Pandas):** Explored salary trends & demographics  
+- Analyzed survey data from **600+ data professionals worldwide**  
+- **Excel:** Cleaned and structured responses for analysis  
+- **Excel (Pivot):** Explored salary trends & demographics  
 - **Power BI:** Built interactive dashboards on salary, tools, and work preferences  
 
 👉 [View Project](https://github.com/Danyrex/Data-Professional-Job-Survey)  
