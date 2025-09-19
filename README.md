@@ -1,6 +1,5 @@
 #  Hi, I’m Daniel Efeurhobo  
 
- **Data Analyst | Data Engineer | Business Analyst**  
 
 I specialize in transforming raw data into **business-ready insights** using Python, SQL Server, and Power BI.  
 
