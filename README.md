@@ -1,7 +1,7 @@
 #  Hi, I’m Daniel Efeurhobo  
 
 
-I specialize in transforming raw data into **business-ready insights** using Python, SQL Server, and Power BI.  
+I specialize in transforming raw data into **business-ready insights** using Python, SQL Server, Excel, and Power BI.  
 
 ---
 
