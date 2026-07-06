@@ -15,7 +15,7 @@ I specialize in transforming raw data into **business-ready insights** using Pyt
 
 👉 [View Project](https://github.com/Danyrex/fraud-detection-analysis)  
 
-![Fraud Dashboard](https://github.com/Danyrex/fraud-detection-analysis/blob/df2087939129d8f1067fc6d46f090c175c58db93/Screenshots/Overview%20dashboard.jpg)  
+![Fraud Dashboard](https://github.com/Danyrex/fraud-detection-analysis/blob/main/Screenshots/Overview2.jpg)  
 
 ---
 
