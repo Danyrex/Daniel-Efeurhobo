@@ -33,7 +33,6 @@ I specialize in transforming raw data into **business-ready insights** using Pyt
 
 ### 🍪 Cookies Sales Dashboard
 Interactive Power BI dashboard analyzing sales performance for a B2B cookie manufacturing company.
-## Highlights
 
 - Built an end-to-end sales analytics dashboard
 - Power Query: Data cleaning and transformation
