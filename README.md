@@ -29,6 +29,21 @@ I specialize in transforming raw data into **business-ready insights** using Pyt
 
 ![Survey Dashboard](https://github.com/Danyrex/Data-Professional-Job-Survey/blob/0538bd0a3fb3d48a866f5a695aa4a60ae1661378/Screenshots/Full%20chart.jpg)  
 
+# 🍪 Cookies Sales Dashboard
+
+Interactive Power BI dashboard analyzing sales performance for a B2B cookie manufacturing company.
+
+## Highlights
+
+- Built an end-to-end sales analytics dashboard
+- Power Query: Data cleaning and transformation
+- DAX: Profit Margin, Total Profit, and Total Orders KPIs
+- Power BI: Product, customer, sales trend, and regional performance dashboards
+
+👉 [View Project](https://github.com/Danyrex/COOKIE-SALES-DASHBOARD)
+
+![Cookie Sales Dasboard](https://github.com/Danyrex/COOKIE-SALES-DASHBOARD/blob/main/snapshots/Dashboard.jpg)
+
 ---
 
 ## Let’s Connect  
