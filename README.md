@@ -19,6 +19,21 @@ I specialize in transforming raw data into **business-ready insights** using Pyt
 
 ---
 
+### 🛍️ Retail Sales Dashboard
+
+Built an interactive Power BI dashboard analyzing **$172.8M** in retail sales across North America.
+
+- Power Query: Data cleaning & transformation
+- DAX: KPIs and time-based calculations
+- Power BI: Interactive dashboards with sales trends, customer segmentation, and geographic analysis
+- Insights: Identified Canada and the United States as the highest-performing markets, with Novelty Shops driving the largest share of revenue and May recording the peak monthly sales.
+
+👉 [View Project](https://github.com/Danyrex/Retail-Sales-Analysis/tree/main)
+
+![Retail Sales Analysis](https://github.com/Danyrex/Retail-Sales-Analysis/blob/main/images/Retail%20sales%20dashboard.jpg)  
+
+---
+
 ### 📈 Data Professional Job Survey  
 - Analyzed survey data from **600+ data professionals worldwide**  
 - **Excel:** Cleaned and structured responses for analysis  
